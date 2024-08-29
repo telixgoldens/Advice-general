@@ -36,7 +36,7 @@ h1 {
   color: var(--light-cyan);
 }
 .divider-image {
-  width: 100%;
+  /* width: 100%; */
 }
 .dice-container {
   width: 55px;
